@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aloofist&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aloofist&show_icons=true&theme=great-gatsby#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=aloofist&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
